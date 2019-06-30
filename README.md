@@ -1,1 +1,3 @@
 # code-snippets
+
+Here you find code snippets I created for further development ...
